@@ -19,8 +19,6 @@ body {
 }
 
 .navbar a {
-
-
     color: #000000;
     padding: 34px 16px;
     text-decoration: none;
@@ -44,7 +42,6 @@ footer {
     text-align: center;
     color: black;
     position: absolute;
-
     bottom: 0%;
     width: 100%;
 }
@@ -58,7 +55,7 @@ footer {
 form-wrapper {
     width: 300px;
     height: 370px;
-    position: absolute;
+    position:absolute;
     top: 50%;
     left: 48%;
     margin: -184px 0px 0px -155px;
@@ -66,16 +63,18 @@ form-wrapper {
     padding: 15px 25px;
     border-radius: 5px;
     box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.6), inset 0px 1px 0px rgba(255, 255, 255, 0.04);
+
 }
 
 
 .form-item {
-    width: 100%;
+    width: 50%;
+    text-align-all: center;
+
 }
 
 
 .form-item input {
-    border: none;
     background: transparent;
     color: #fff;
     margin-top: 11px;
@@ -83,8 +82,11 @@ form-wrapper {
     font-size: 1.2em;
     height: 49px;
     padding: 0 16px;
-    width: 100%;
+    width: 50%;
     padding-left: 55px;
+
+
+
 
 }
 
@@ -104,12 +106,14 @@ input[type='email'] {
 .form-item input:focus {
     outline: none;
     border: 1.4px solid #cfecf0;
+
 }
 
 .button-panel {
     margin-bottom: 20px;
     padding-top: 10px;
-    width: 100%;
+    width: 50%;
+
 }
 
 .button-panel .button {
@@ -123,7 +127,7 @@ input[type='email'] {
     text-align: center;
     text-transform: uppercase;
     transition: background 0.6s linear;
-    width: 100%;
+    width: 50%;
     margin-top: 10px;
 }
 
