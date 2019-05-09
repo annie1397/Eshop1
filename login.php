@@ -62,13 +62,13 @@ if ($login == 1) {
 
 
         <div class="form-item">
-            <input type="email" name="u_email" required="required" placeholder="Πληκτρολόγησε το Email" autofocus
+            <input type="email" name="u_email" required="required" placeholder=" Email" autofocus
                    required></input>
 
         </div>
 
         <div class="form-item">
-            <input type="password" name="u_pass" required="required" placeholder="Πληκτρολόγησε τον κωδικό" required></input>
+            <input type="password" name="u_pass" required="required" placeholder="Kωδικός" required></input>
         </div>
 
         <div class="button-panel">
@@ -76,7 +76,7 @@ if ($login == 1) {
         </div>
     </form>
     <div class="reminder">
-        <p>Δεν έχεις λογαριασμό? <a href="register.php">Εγγραφή τώρα !</a></p>
+         <a href="register.php">Εγγραφή τώρα !</a>
 
     </div>
 

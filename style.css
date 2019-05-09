@@ -19,6 +19,8 @@ body {
 }
 
 .navbar a {
+
+
     color: #000000;
     padding: 34px 16px;
     text-decoration: none;
@@ -34,59 +36,34 @@ body {
 }
 
 
-
-footer {
-    background-color: beige;
-    opacity: inherit;
-    padding: 5px;
-    text-align: center;
-    color: black;
+.form-wrapper {
+    width:300px;
+    height:300px;
     position: absolute;
-    bottom: 0%;
-    width: 100%;
-}
-
-
-
-* {
-    box-sizing: border-box;
-}
-
-form-wrapper {
-    width: 300px;
-    height: 370px;
-    position:absolute;
     top: 50%;
     left: 48%;
     margin: -184px 0px 0px -155px;
-    background: rgba(0, 0, 0, 0.27);
+    background: rgba(0,0,0,0.27);
     padding: 15px 25px;
     border-radius: 5px;
-    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.6), inset 0px 1px 0px rgba(255, 255, 255, 0.04);
-
+    box-shadow: 0px 1px 0px rgba(0,0,0,0.6),inset 0px 1px 0px rgba(255,255,255,0.04);
 }
-
 
 .form-item {
-    width: 50%;
-    text-align-all: center;
-
+    width:100%;
 }
 
-
-.form-item input {
-    background: transparent;
+.form-item input{
+    border: none;
+    background:transparent;
     color: #fff;
-    margin-top: 11px;
+    margin-top:11px;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
     height: 49px;
     padding: 0 16px;
-    width: 50%;
+    width: 100%;
     padding-left: 55px;
-
-
-
 
 }
 
@@ -105,15 +82,13 @@ input[type='email'] {
 
 .form-item input:focus {
     outline: none;
-    border: 1.4px solid #cfecf0;
-
+    border:1.4px solid #cfecf0;
 }
 
 .button-panel {
     margin-bottom: 20px;
     padding-top: 10px;
-    width: 50%;
-
+    width: 100%;
 }
 
 .button-panel .button {
@@ -122,19 +97,26 @@ input[type='email'] {
     color: #fff;
     cursor: pointer;
     height: 50px;
-    font-family: 'helvetica', 'Open Sans', sans-serif;
+    font-family: 'helvetica','Open Sans', sans-serif;
     font-size: 1.2em;
     text-align: center;
     text-transform: uppercase;
     transition: background 0.6s linear;
-    width: 50%;
-    margin-top: 10px;
+    width: 100%;
+    margin-top:10px;
 }
 
 .button:hover {
     background: #6eb7cb;
 }
-
+h3{
+    font-size: 25px;
+    font-weight: 640;
+    margin-bottom: 10px;
+    color: #e7e7e7;
+    padding:6px;
+    font-family:'sans-serif','helvetica';
+}
 .form-item input, .button-panel .button {
     border-radius: 2px
 }
@@ -153,23 +135,15 @@ input[type='email'] {
     color: #cab6bf;
 }
 
-.poikilies {
-	text-align :center;
-	opacity : inherit;
-	color:black;
-}
-
-.poikilies {
-    margin-bottom: 20px;
-    padding-top: 10px;
-    width: 100%;
-}
-.poikilies{
-    background-color: grey;
-    opacity: 0.7;
+footer {
+    background-color: beige;
+    opacity: inherit;
     padding: 5px;
+    text-align: center;
+    color: black;
     position: absolute;
+    bottom: auto;
+    margin-top: revert;
+    display: revert;
 
-    top: 0%;
-    width: 100%;
 }
