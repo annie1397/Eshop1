@@ -13,14 +13,13 @@
 </head>
 <body>
 <div class="navbar">
-    <a href="#home">Home</a>
+    <a href="">Αρχική</a>
     <a href="">Eshop</a>
-    <a href="">Coffee</a>
-    <a href="">Contact</a>
-    <a href="">About us </a>
+    <a href="">Ο καφές μας</a>
+    <a href="">Επικοινωνία</a>
     <div class="navbar-right">
-    <a href="#Shop"><i class="fa fa-shopping-cart"></i> Shopping Cart</a>
-    <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Sign out</a>
+    <a href="#Shop"><i class="fa fa-shopping-cart"></i> Καλάθι αγορών</a>
+    <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
 </div>

@@ -14,7 +14,7 @@ if ($login == 1) {
         $u_pass = $_POST['u_pass'];
 
         if (empty($u_email) || empty($u_pass)) {
-            echo "Please complete all data";
+            echo "Συμπλήρωσε όλα τα πεδία";
         } else {
             $selectfdb = mysqli_query($conn, "SELECT * FROM users WHERE u_email='$u_email' AND u_pass='$u_pass'");
             $row = mysqli_fetch_array($selectfdb);
@@ -24,7 +24,7 @@ if ($login == 1) {
                 echo "<meta http-equiv='refresh' content='0; url=profile.php'>";
 
             } else {
-                echo "EMAIL OR PASSWORD INCORRECT";
+                echo "Λάθος κωδικός ή Email";
             }
         }
     }
@@ -45,11 +45,11 @@ if ($login == 1) {
 </head>
 <body>
 <div class="navbar">
-    <a href="">Home</a>
+    <a href="">Αρχική</a>
     <a href="">Eshop</a>
-    <a href="">Coffee</a>
-    <a href="">Contact</a>
-    <a href="">About us </a>
+    <a href="">Ο καφές μας</a>
+    <a href="">Επικοινωνία</a>
+
 
 
 
@@ -62,13 +62,13 @@ if ($login == 1) {
 
 
         <div class="form-item">
-            <input type="email" name="u_email" required="required" placeholder="Enter Your Email" autofocus
+            <input type="email" name="u_email" required="required" placeholder="Πληκτρολόγησε το Email" autofocus
                    required></input>
 
         </div>
 
         <div class="form-item">
-            <input type="password" name="u_pass" required="required" placeholder="Enter Your Password" required></input>
+            <input type="password" name="u_pass" required="required" placeholder="Πληκτρολόγησε τον κωδικό" required></input>
         </div>
 
         <div class="button-panel">
@@ -76,7 +76,7 @@ if ($login == 1) {
         </div>
     </form>
     <div class="reminder">
-        <p>Not a member? <a href="register.php">Sign up now</a></p>
+        <p>Δεν έχεις λογαριασμό? <a href="register.php">Εγγραφή τώρα !</a></p>
 
     </div>
 
