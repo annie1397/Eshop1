@@ -67,7 +67,7 @@ if ($login == 1) {
 
 
     <footer>
-        <p>&copy; COFFE COMPANY 2019
+        <p>&copy; COFFEE COMPANY 2019
         <p>
     </footer>
 
