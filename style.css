@@ -153,18 +153,18 @@ input[type='email'] {
     color: #cab6bf;
 }
 
-.poikilies {
+.h1 {
 	text-align :center;
 	opacity : inherit;
 	color:black;
 }
 
-.poikilies {
+.h1{
     margin-bottom: 20px;
     padding-top: 10px;
     width: 100%;
 }
-.poikilies{
+.h1{
     background-color: grey;
     opacity: 0.7;
     padding: 5px;
@@ -182,7 +182,7 @@ input[type='email'] {
 }
 .picture img {
   width: 100%;
-  height: 200;
+  height: 200px;
 }
 div.desc {
   padding: 15px;
