@@ -407,6 +407,7 @@
   <img class="modal-content" id="img01">
   <div id="caption"></div>
 </div>
+<img id="myImg" src="img/Vandino.jpg" alt="Snow" style="width:100%;max-width:300px">
 
 <script>
 
