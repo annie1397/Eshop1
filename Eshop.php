@@ -24,381 +24,381 @@
 </div>
 
     <div class="picture">
-        <a target="_blank" href="AITHIOPIA(2).jpg">
-            <img src="AITHIOPIA(2).jpg" alt="AITHIOPIA(2)" >
+        <a target="_blank">
+            <img src="img/AITHIOPIA(2).jpg" alt="AITHIOPIA(2)" >
         </a>
         <div class="desc">23,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="AITHIOPIA.jpg">
-            <img src="AITHIOPIA.jpg" alt="AITHIOPIA" >
+        <a target="_blank">
+            <img src="img/AITHIOPIA.jpg" alt="AITHIOPIA" >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="BRAVO.jpg">
-            <a target="_blank" href="BRAVO.jpg">
-                <img src="BRAVO.jpg" alt="BRAVO" height =100% >
+        <a target="_blank">
+
+                <img src="img/BRAVO.jpg" alt="BRAVO" >
             </a>
             <div class="desc">25,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="BRISTOT.jpg">
-            <img src="BRISTOT.jpg" alt="BRISTOT" height =100% >
+        <a target="_blank">
+            <img src="img/BRISTOT.jpg" alt="BRISTOT">
         </a>
         <div class="desc">15,00€</div>
     </div>
 
 
     <div class="picture">
-        <a target="_blank" href="BUONDI.jpg">
-            <img src="BUONDI.jpg" alt="BUONDI" height =100% >
+        <a target="_blank" >
+            <img src="img/BUONDI.jpg" alt="BUONDI" >
         </a>
         <div class="desc">15,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="CAGLIARI(2).jpg">
-            <img src="CAGLIARI(2).jpg" alt="CAGLIARI(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/CAGLIARI(2).jpg" alt="CAGLIARI(2)">
         </a>
         <div class="desc">18,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="CAGLIARI.jpg">
-            <img src="CAGLIARI.jpg" alt="CAGLIARI" height =100% >
+        <a target="_blank">
+            <img src="img/CAGLIARI.jpg" alt="CAGLIARI"  >
         </a>
         <div class="desc">30,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="CAGLIARI(3).jpg">
-            <img src="CAGLIARI(3).jpg" alt="CAGLIARI(3)" height =100% >
+        <a target="_blank" >
+            <img src="img/CAGLIARI(3).jpg" alt="CAGLIARI(3)"  >
         </a>
         <div class="desc">17,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COSMAI(2).jpg">
-            <img src="COSMAI(2).jpg" alt="COSMAI(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/COSMAI(2).jpg" alt="COSMAI(2)">
         </a>
         <div class="desc">32,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COSMAI.jpg">
-            <img src="COSMAI.jpg" alt="COSMAI" height =100% >
+        <a target="_blank" >
+            <img src="img/COSMAI.jpg" alt="COSMAI" >
         </a>
         <div class="desc">26,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COSMAI(3).jpg">
-            <img src="COSMAI(3).jpg" alt="COSMAI(3)" height =100% >
+        <a target="_blank" >
+            <img src="img/COSMAI(3).jpg" alt="COSMAI(3)" >
         </a>
         <div class="desc">19,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COVIM(2).jpg">
-            <img src="COVIM(2).jpg" alt="COVIM(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/COVIM(2).jpg" alt="COVIM(2)" >
         </a>
         <div class="desc">21,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COVIM(3).jpg">
-            <img src="COVIM(3).jpg" alt="COVIM(3)" height =100% >
+        <a target="_blank" >
+            <img src="img/COVIM(3).jpg" alt="COVIM(3)" >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="COVIM.jpg">
-            <img src="COVIM.jpg" alt="COVIM(3)" height =100% >
+        <a target="_blank" >
+            <img src="img/COVIM.jpg" alt="COVIM(3)"  >
         </a>
         <div class="desc">23,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DA VINCI(2).jpg">
-            <img src="DA VINCI(2).jpg" alt="DA VINCI(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/DA VINCI(2).jpg" alt="DA VINCI(2)" >
         </a>
         <div class="desc">16,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DA VINCI.jpg">
-            <img src="DA VINCI.jpg" alt="DA VINCI" height =100% >
+        <a target="_blank" >
+            <img src="img/DA VINCI.jpg" alt="DA VINCI" >
         </a>
         <div class="desc">30,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DANESI.jpg">
-            <img src="DANESI.jpg" alt="DANESI" height =100% >
+        <a target="_blank" >
+            <img src="img/DANESI.jpg" alt="DANESI"  >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DANESI(2).jpg">
-            <img src="DANESI(2).jpg" alt="DANESI(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/DANESI(2).jpg" alt="DANESI(2)"  >
         </a>
         <div class="desc">23,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DE ROCCIS(2).jpg">
-            <img src="DE ROCCIS(2).jpg" alt="DE ROCCIS(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/DE ROCCIS(2).jpg" alt="DE ROCCIS(2)" >
         </a>
         <div class="desc">24,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DE ROCCIS(3).jpg">
-            <img src="DE ROCCIS(3).jpg" alt="DE ROCCIS(3)" height =100% >
+        <a target="_blank" >
+            <img src="img/DE ROCCIS(3).jpg" alt="DE ROCCIS(3)"  >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DE ROCCIS.jpg">
-            <img src="DE ROCCIS.jpg" alt="DE ROCCIS" height =100% >
+        <a target="_blank" >
+            <img src="img/DE ROCCIS.jpg" alt="DE ROCCIS" >
         </a>
         <div class="desc">21,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="DEL FARO.jpg">
-            <img src="DEL FARO.jpg" alt="DEL FARO" height =100% >
+        <a target="_blank" >
+            <img src="img/DEL FARO.jpg" alt="DEL FARO" >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="EDUSCHO.jpg">
-            <img src="EDUSCHO.jpg" alt="EDUSCHO" height =100% >
+        <a target="_blank" >
+            <img src="img/EDUSCHO.jpg" alt="EDUSCHO" >
         </a>
         <div class="desc">19,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="EDUSCHO(2).jpg">
-            <img src="EDUSCHO(2).jpg" alt="EDUSCHO(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/EDUSCHO(2).jpg" alt="EDUSCHO(2)" >
         </a>
         <div class="desc">18,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="GARIBALDI.jpg">
-            <img src="GARIBALDI.jpg" alt="GARIBALDI" height =100% >
+        <a target="_blank" >
+            <img src="img/GARIBALDI.jpg" alt="GARIBALDI" >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="ICS(2).jpg">
-            <img src="ICS(2).jpg" alt="ICS(2)" height =100% >
+        <a target="_blank" >
+            <img src="img/ICS(2).jpg" alt="ICS(2)"  >
         </a>
         <div class="desc">25,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="ICS.jpg">
-            <img src="ICS.jpg" alt="ICS" height =100% >
+        <a target="_blank" >
+            <img src="img/ICS.jpg" alt="ICS" >
         </a>
         <div class="desc">26,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Ipanema.jpg">
-            <img src="Ipanema.jpg" alt="Ipanema" height =100% >
+        <a target="_blank" >
+            <img src="img/Ipanema.jpg" alt="Ipanema" >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Jacobs.jpg">
-            <img src="Jacobs.jpg" alt="Jacobs" height =100% >
+        <a target="_blank" >
+            <img src="img/Jacobs.jpg" alt="Jacobs" >
         </a>
         <div class="desc">29,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Julius Meinl.jpg">
-            <img src="Julius Meinl.jpg" alt="Julius Meinl" height =100% >
+        <a target="_blank" >
+            <img src="img/Julius Meinl.jpg" alt="Julius Meinl"  >
         </a>
         <div class="desc">25,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="KANABISSIMO.jpg">
-            <img src="KANABISSIMO.jpg" alt="KANABISSIMO" height =100% >
+        <a target="_blank" >
+            <img src="img/KANABISSIMO.jpg" alt="KANABISSIMO"  >
         </a>
         <div class="desc">12,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Lamborghini.jpg">
-            <img src="Lamborghini.jpg" alt="Lamborghini" height =100% >
+        <a target="_blank" >
+            <img src="img/Lamborghini.jpg" alt="Lamborghini"  >
         </a>
         <div class="desc">50,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Lavazza Blue.jpg">
-            <img src="Lavazza Blue.jpg" alt="Lavazza Blue" height =100% >
+        <a target="_blank" >
+            <img src="img/Lavazza Blue.jpg" alt="Lavazza Blue"  >
         </a>
         <div class="desc">26,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Lollo.jpg">
-            <img src="Lollo.jpg" alt="Lollo" height =100% >
+        <a target="_blank">
+            <img src="img/Lollo.jpg" alt="Lollo"  >
         </a>
         <div class="desc">27,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Lucaffe.jpg">
-            <img src="Lucaffe.jpg" alt="Lucaffe" height =100% >
+        <a target="_blank" >
+            <img src="img/Lucaffe.jpg" alt="Lucaffe"  >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Manaresi.jpg">
-            <img src="Manaresi.jpg" alt="Manaresi" height =100% >
+        <a target="_blank" >
+            <img src="img/Manaresi.jpg" alt="Manaresi"  >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Melitta.jpg">
-            <img src="Melitta.jpg" alt="Melitta" height =100% >
+        <a target="_blank" >
+            <img src="img/Melitta.jpg" alt="Melitta" >
         </a>
         <div class="desc">23,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Molinari.jpg">
-            <img src="Molinari.jpg" alt="Molinari" height =100% >
+        <a target="_blank">
+            <img src="img/Molinari.jpg" alt="Molinari">
         </a>
         <div class="desc">27,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Monbana.jpg">
-            <img src="Monbana.jpg" alt="Monbana" height =100% >
+        <a target="_blank" >
+            <img src="img/Monbana.jpg" alt="Monbana" height>
         </a>
         <div class="desc">16,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Mondocaffejpg">
-            <img src="Mondocaffe.jpg" alt="Mondocaffe" height =100% >
+        <a target="_blank" >
+            <img src="img/Mondocaffe.jpg" alt="Mondocaffe" >
         </a>
         <div class="desc">12,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Motta.jpg">
-            <img src="Motta.jpg" alt="Motta" height =100% >
+        <a target="_blank" >
+            <img src="img/Motta.jpg" alt="Motta"  >
         </a>
         <div class="desc">14,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Natreen.jpg">
-            <img src="Natreen.jpg" alt="Natreen" height =100% >
+        <a target="_blank" >
+            <img src="img/Natreen.jpg" alt="Natreen" >
         </a>
         <div class="desc">18,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Nescafe.jpg">
-            <img src="Nescafe.jpg" alt="Nescafe" height =100% >
+        <a target="_blank" >
+            <img src="img/Nescafe.jpg" alt="Nescafe"  >
         </a>
         <div class="desc">22,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="New York.jpg">
-            <img src="New York.jpg" alt="New York" height =100% >
+        <a target="_blank" >
+            <img src="img/New York.jpg" alt="New York" >
         </a>
         <div class="desc">28,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Paluani.jpg">
-            <img src="Paluani.jpg" alt="Paluani" height =100% >
+        <a target="_blank" >
+            <img src="img/Paluani.jpg" alt="Paluani"  >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Passalacqua.jpg">
-            <img src="Passalacqua.jpg" alt="Passalacqua" height =100% >
+        <a target="_blank" >
+            <img src="img/Passalacqua.jpg" alt="Passalacqua"  >
         </a>
         <div class="desc">24,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Pelican Rouge.jpg">
-            <img src="Pelican Rouge.jpg" alt="Pelican Rouge" height =100% >
+        <a target="_blank" >
+            <img src="img/Pelican Rouge.jpg" alt="Pelican Rouge" >
         </a>
         <div class="desc">25,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Portioli.jpg">
-            <img src="Portioli.jpg" alt="Portioli" height =100% >
+        <a target="_blank" >
+            <img src="img/Portioli.jpg" alt="Portioli" >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Puro.jpg">
-            <img src="Puro.jpg" alt="Puro" height =100% >
+        <a target="_blank" >
+            <img src="img/Puro.jpg" alt="Puro" height>
         </a>
         <div class="desc">22,50€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Ristora.jpg">
-            <img src="Ristora.jpg" alt="Ristora" height =100% >
+        <a target="_blank" >
+            <img src="img/Ristora.jpg" alt="Ristora" >
         </a>
         <div class="desc">29,80€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Sandemetrio.jpg">
-            <img src="Sandemetrio.jpg" alt="Sandemetrio" height =100% >
+        <a target="_blank" >
+            <img src="img/Sandemetrio.jpg" alt="Sandemetrio" >
         </a>
         <div class="desc">20,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Simat.jpg">
-            <img src="Simat.jpg" alt="Simat" height =100% >
+        <a target="_blank" >
+            <img src="img/Simat.jpg" alt="Simat" >
         </a>
         <div class="desc">27,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Utopia.jpg">
-            <img src="Utopia.jpg" alt="Utopia" height =100% >
+        <a target="_blank" >
+            <img src="img/Utopia.jpg" alt="Utopia" >
         </a>
         <div class="desc">21,00€</div>
     </div>
 
     <div class="picture">
-        <a target="_blank" href="Vandino.jpg">
-            <img src="Vandino.jpg" alt="Vandino" height =100% >
+        <a target="_blank" >
+            <img src="img/Vandino.jpg" alt="Vandino" >
         </a>
         <div class="desc">22,60€</div>
     </div>
