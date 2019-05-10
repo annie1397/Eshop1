@@ -66,10 +66,9 @@ if ($login == 1) {
     </div>
 
 
-    <footer>
-        <p>&copy; COFFEE COMPANY 2019</p>
-
-    </footer>
+    <div class="footer"
+    <p>&copy; COFFEE COMPANY 2019</p>
+</div>
 
 
 </body>

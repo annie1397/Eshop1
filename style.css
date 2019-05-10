@@ -14,7 +14,10 @@ body {
     background-color: #4d4d33;
     opacity: inherit;
     top: 0;
-    width: 100%;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 4px;
 }
 
 .navbar a {
@@ -76,7 +79,12 @@ input[type='password'] {
 }
 
 input[type='email'] {
-    background: transparent url("img/user.jpg") no-repeat;
+    background: transparent url("img/email.jpg") no-repeat;
+    background-position: 10px 50%;
+
+}
+input[type='name']{
+    background:transparent url("img/user.jpg") no-repeat;
     background-position: 10px 50%;
 
 }
@@ -130,17 +138,17 @@ input[type='email'] {
     color: #cab6bf;
 }
 .h1 {
-	text-align :center;
-	opacity : 0.8;
-	color:white;
+    text-align :center;
+    opacity : 0.8;
+    color:white;
 
 
-	font-family: "Garamond", Times, serif;
+    font-family: "Garamond", Times, serif;
 }
 .h1{
-		
-		border :double;
-		
+
+    border :double;
+
 }
 
 .h1{
@@ -149,14 +157,14 @@ input[type='email'] {
     width: 100%;
 }
 
-.h1 { 
-  display: block;
-  font-size: 1.5em;
-  margin-top: 0.83em;
-  margin-bottom: 0.83em;
-  margin-left: 0;
-  margin-right: 0;
-  font-weight: bold;
+.h1 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
 }
 .picture {
   margin: 20px;
@@ -258,15 +266,17 @@ div.desc {
   }
 }
 
-
-footer {
-    background-color: #4d4d33;
+.footer {
+    position: fixed;
     opacity: inherit;
-    padding: 5px;
-    text-align: center;
-    color: black;
-    position:relative;
-    bottom: auto;
-
+    left: 0;
+    bottom: 0;
     width: 100%;
+    background-color: #4d4d33;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 10px;
+
 }

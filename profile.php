@@ -18,24 +18,22 @@
     <a href="">Ο καφές μας</a>
     <a href="">Επικοινωνία</a>
     <div class="navbar-right">
-    <a href="#Shop"><i class="fa fa-shopping-cart"></i> Καλάθι αγορών</a>
+    <a href="#Shop"><i class="fa fa-shopping-cart"></i>  Καλάθι αγορών</a>
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
 </div>
 
 <div class="product-row btn-open-cart-popup  " data-characteristics-url="https://www.coffeeisland.gr/catalog/product_popup/891/1" id="cart-popup-for-891" data-product-id="891" data-popup-title="Espresso Double">
-    <div class="product-title" >
-        <strong>Espresso Double</strong>																																							</div>
-    <div class="product-price text-right">
-        <span class="price">1.50&euro;</span>
+
+
+
         <i class="fa fa-plus-square-o cart-plus"></i>
     </div>
-</div>
-<footer>
-    <p>&copy; COFFEE COMPANY 2019</p>
 
-</footer>
+<div class="footer"
+<p>&copy; COFFEE COMPANY 2019</p>
+</div>
 
 
 </body>

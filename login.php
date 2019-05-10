@@ -41,6 +41,7 @@ if ($login == 1) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 </head>
 <body>
@@ -61,10 +62,8 @@ if ($login == 1) {
     <form action="login.php" method="post">
 
 
-        <div class="form-item">
-            <input type="email" name="u_email" required="required" placeholder="Email" autofocus
-                   required></input>
-
+        <div class="form-item" >
+            <input type="email" name="u_email" required="required"  placeholder="Email" autofocus required ></input>
         </div>
 
         <div class="form-item">
@@ -81,9 +80,9 @@ if ($login == 1) {
     </div>
 
 
-    <footer>
+    <div class="footer"
         <p>&copy; COFFEE COMPANY 2019</p>
-    </footer>
+</div>
 
 
 </body>
