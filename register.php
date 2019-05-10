@@ -40,18 +40,18 @@ if ($login == 1) {
 
     <form action="register.php" method="post">
         <div class="form-item">
-            <input type="name" name="u_name" required="required" placeholder="Πληκτρολόγησε το Ονοματεπώνυμο" autofocus
+            <input type="name" name="u_name" required="required" placeholder="Ονοματεπώνυμο" autofocus
                    required></input>
         </div>
 
         <div class="form-item">
-            <input type="email" name="u_email" required="required" placeholder="Πληκτρολόγησε το Email" autofocus
+            <input type="email" name="u_email" required="required" placeholder="Email" autofocus
                    required></input>
 
         </div>
 
         <div class="form-item">
-            <input type="password" name="u_pass" required="required" placeholder="Πληκτρολόγησε τον κωδικό" required></input>
+            <input type="password" name="u_pass" required="required" placeholder="Κωδικός" required></input>
         </div>
 
         <div class="button-panel">
@@ -67,8 +67,8 @@ if ($login == 1) {
 
 
     <footer>
-        <p>&copy; COFFEE COMPANY 2019
-        <p>
+        <p>&copy; COFFEE COMPANY 2019</p>
+
     </footer>
 
 

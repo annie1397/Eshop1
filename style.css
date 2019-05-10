@@ -2,10 +2,8 @@ body {
     color: #fff;
     margin: 0;
     font: 87.5%/1.5em 'Open Sans', sans-serif;
-    background: url(img/coffe.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
+    background: url(img/coffe.png) no-repeat ;
     -moz-background-size: cover;
-    -o-background-size: cover;
     background-size: cover;
 
 }
@@ -13,7 +11,8 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: beige;
+    background-color: #4d4d33;
+    opacity: inherit;
     top: 0;
     width: 100%;
 }
@@ -35,61 +34,41 @@ body {
 
 
 
-footer {
-    background-color: beige;
-    opacity: inherit;
-    padding: 5px;
-    text-align: center;
-    color: black;
+
+
+
+.form-wrapper {
+    width:300px;
+    height:370px;
     position: absolute;
-    bottom: 0%;
-    width: 100%;
-}
-
-
-
-* {
-    box-sizing: border-box;
-}
-
-form-wrapper {
-    width: 300px;
-    height: 370px;
-    position:absolute;
     top: 50%;
     left: 48%;
     margin: -184px 0px 0px -155px;
-    background: rgba(0, 0, 0, 0.27);
+    background: rgba(0,0,0,0.27);
     padding: 15px 25px;
     border-radius: 5px;
-    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.6), inset 0px 1px 0px rgba(255, 255, 255, 0.04);
-
+    box-shadow: 0px 1px 0px rgba(0,0,0,0.6),inset 0px 1px 0px rgba(255,255,255,0.04);
 }
-
 
 .form-item {
-    width: 50%;
-    text-align-all: center;
-
+    width:100%;
 }
 
 
-.form-item input {
-    background: transparent;
+
+.form-item input{
+    border: none;
+    background:transparent;
     color: #fff;
-    margin-top: 11px;
+    margin-top:11px;
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
     height: 49px;
     padding: 0 16px;
-    width: 50%;
+    width: 100%;
     padding-left: 55px;
 
-
-
-
 }
-
 
 input[type='password'] {
     background: transparent url("img/pass.jpg") no-repeat;
@@ -105,15 +84,13 @@ input[type='email'] {
 
 .form-item input:focus {
     outline: none;
-    border: 1.4px solid #cfecf0;
-
+    border:1.4px solid #cfecf0;
 }
 
 .button-panel {
     margin-bottom: 20px;
     padding-top: 10px;
-    width: 50%;
-
+    width: 100%;
 }
 
 .button-panel .button {
@@ -122,13 +99,13 @@ input[type='email'] {
     color: #fff;
     cursor: pointer;
     height: 50px;
-    font-family: 'helvetica', 'Open Sans', sans-serif;
+    font-family: 'helvetica','Open Sans', sans-serif;
     font-size: 1.2em;
     text-align: center;
     text-transform: uppercase;
     transition: background 0.6s linear;
-    width: 50%;
-    margin-top: 10px;
+    width: 100%;
+    margin-top:10px;
 }
 
 .button:hover {
@@ -152,7 +129,6 @@ input[type='email'] {
 .reminder a:hover {
     color: #cab6bf;
 }
-
 .h1 {
 	text-align :center;
 	opacity : inherit;
@@ -271,4 +247,17 @@ div.desc {
   .modal-content {
     width: 100%;
   }
+}
+
+
+footer {
+    background-color: #4d4d33;
+    opacity: inherit;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    position:relative;
+    bottom: auto;
+
+    width: 100%;
 }

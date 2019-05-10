@@ -33,8 +33,8 @@
     </div>
 </div>
 <footer>
-    <p>&copy; COFFEE COMPANY 2019
-    <p>
+    <p>&copy; COFFEE COMPANY 2019</p>
+
 </footer>
 
 
