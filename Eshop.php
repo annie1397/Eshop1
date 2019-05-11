@@ -306,8 +306,18 @@
     <img id="myImg" src="img/Vandino.jpg" alt="Snow" style="width:100%;max-width:300px">
     <div class="desc">22,60€</div>
 </div>
-
-
+<div class="picture">
+    <img id="myImg" src="img/m1.jpeg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">66,60€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m2.jpeg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">147,99€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m5.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">365,99€</div>
+</div>
 
 <script>
 
