@@ -193,7 +193,7 @@ div.desc {
 
 .modal {
   display: none;
-  position: fixed;
+  position:fixed;
   z-index: 1;
   padding-top: 100px;
   left: 0;
@@ -210,7 +210,8 @@ div.desc {
   margin: auto;
   display: block;
   width: 80%;
-  max-width: 700px;
+  height: 80%;
+  max-width: 400px;
 }
 
 

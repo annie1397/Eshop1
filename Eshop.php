@@ -63,53 +63,53 @@
 
 
 <div class="picture">
-    <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow" >
     <div class="desc">23,00€</div>
 </div>
 
 <div class="picture">
 
-    <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow" >
     <div class="desc">20,00€</div>
 </div>
 <div class="picture">
-    <img id="myImg" src="img/BRAVO.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/BRAVO.jpg" alt="Snow" >
     <div class="desc">25,00€</div>
 </div>
 <div class="picture">
 
-    <img id="myImg" src="img/BRISTOT.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/BRISTOT.jpg" alt="Snow" >
     <div class="desc">15,00€</div>
 </div>
 <div class="picture">
-    <img id="myImg" src="img/BUONDI.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/BUONDI.jpg" alt="Snow" >
     <div class="desc">15,00€</div>
 </div>
 <div class="picture">
 
-    <img id="myImg" src="img/CAGLIARI(2).jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/CAGLIARI(2).jpg" alt="Snow">
     <div class="desc">18,00€</div>
 </div>
 <div class="picture">
-    <img id="myImg" src="img/CAGLIARI.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/CAGLIARI.jpg" alt="Snow" >
     <div class="desc">30,00€</div>
 </div>
 <div class="picture">
 
-    <img id="myImg" src="img/CAGLIARI(3).jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/CAGLIARI(3).jpg" alt="Snow" >
     <div class="desc">17,00€</div>
 </div>
 <div class="picture">
-    <img id="myImg" src="img/COSMAI(2).jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/COSMAI(2).jpg" alt="Snow" >
     <div class="desc">32,00€</div>
 </div>
 <div class="picture">
 
-    <img id="myImg" src="img/COSMAI.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/COSMAI.jpg" alt="Snow" >
     <div class="desc">26,00€</div>
 </div>
 <div class="picture">
-    <img id="myImg" src="img/COSMAI(3).jpg" alt="Snow" style="width:100%;max-width:300px">
+    <img id="myImg" src="img/COSMAI(3).jpg" alt="Snow">
     <div class="desc">19,00€</div>
 </div>
 <div class="picture">
