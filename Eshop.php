@@ -318,7 +318,41 @@
     <img id="myImg" src="img/m5.jpg" alt="Snow" style="width:100%;max-width:300px">
     <div class="desc">365,99€</div>
 </div>
-
+<div class="picture">
+    <img id="myImg" src="img/victoria.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">14.000€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/zic.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">2.284,00€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m3.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">195,00€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m6.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">95,85€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m11.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">64,35€</div>
+</div><div class="picture">
+    <img id="myImg" src="img/m15.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">249,00€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/m7.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">279,00€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/cit.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">179,00€</div>
+</div>
+<div class="picture">
+    <img id="myImg" src="img/citm.jpg" alt="Snow" style="width:100%;max-width:300px">
+    <div class="desc">161,00€</div>
+</div>
 <script>
 
     var modal = document.getElementById('myModal');
