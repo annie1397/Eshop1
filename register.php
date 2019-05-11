@@ -55,13 +55,13 @@ if ($login == 1) {
         </div>
 
         <div class="button-panel">
-            <input type="submit" class="button" title="Log In" name="button" value="Sign up "></input>
+            <input type="submit" class="button" title="Εγγραφή" name="button" value="Εγγραφη "></input>
 
         </div>
 
     </form>
     <div class="reminder">
-        <p>Έτοιμο ? <a href="login.php">Σύνδεση </a></p>
+        <p>Είσαι μέλος ? <a href="login.php">Σύνδεση </a></p>
 
     </div>
 

@@ -10,10 +10,29 @@
     <link href="style.css" rel="stylesheet">
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 
 
 </head>
 <body>
+<div class="navbar">
+    <a href="">Αρχική</a>
+    <a href="Eshop.php">Eshop</a>
+    <a href="contact.php">Επικοινωνία</a>
+    <div class="navbar-right">
+        <a href="login.php"><i class="fas fa-sign-in-alt"> </i> Σύνδεση</a>
+    </div>
+
+</div>
+
+<div class="product-row btn-open-cart-popup  " data-characteristics-url="https://www.coffeeisland.gr/catalog/product_popup/891/1" id="cart-popup-for-891" data-product-id="891" data-popup-title="Espresso Double">
+
+
+
+    <i class="fa fa-plus-square-o cart-plus"></i>
+</div>
+
+
 
 
 <div class="h1">

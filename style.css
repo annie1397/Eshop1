@@ -149,19 +149,20 @@ input[type='name']{
 
     border :double;
 
+
 }
 
 .h1{
     margin-bottom: 20px;
     padding-top: 10px;
-    width: 100%;
+    width: 99.5%;
 }
 
 .h1 {
     display: block;
-    font-size: 1.5em;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-left: 0;
     margin-right: 0;
     font-weight: bold;
@@ -266,6 +267,58 @@ div.desc {
   }
 }
 
+.container {
+    position: relative;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    padding: 7px;
+    width: 100%;
+    bottom:0;
+    font-size:20px;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+
+}
+
+input[type=submit]:hover {
+    background-color:#4d4d33;
+
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #4d4d33;
+    padding: 20px;
+
+
+}
 .footer {
     position: fixed;
     opacity: inherit;

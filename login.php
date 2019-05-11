@@ -48,11 +48,10 @@ if ($login == 1) {
 <div class="navbar">
     <a href="">Αρχική</a>
     <a href="Eshop.php">Eshop</a>
-    <a href="">Ο καφές μας</a>
-    <a href="">Επικοινωνία</a>
-
-
-
+    <div class="navbar-right">
+        <a href="login.php"><i class="fas fa-sign-in-alt"> </i> Σύνδεση</a>
+    </div>
+    <a href="contact.php">Επικοινωνία</a>
 
 </div>
 
@@ -71,7 +70,7 @@ if ($login == 1) {
         </div>
 
         <div class="button-panel">
-            <input type="submit" class="button" title="Log In" name="button" value="Sign in "></input>
+            <input type="submit" class="button" title="Είσοδος" name="button" value="Εισοδος "></input>
         </div>
     </form>
     <div class="reminder">
