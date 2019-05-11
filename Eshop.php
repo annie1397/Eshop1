@@ -54,826 +54,607 @@
     <button class="btn" onclick="filterSelection('machines')"> Μηχανές</button>
     <button class="btn" onclick="filterSelection('coffee')"> Καφέδες</button>
 
-<<<<<<< HEAD
-<div class="picture">
-    <img id="myImg" src="img/AITHIOPIA(2).png" alt="Snow" >
-    <div class="desc">23,00€</div>
-</div>
 
-<div class="picture">
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/AITHIOPIA(2).png" alt="Snow">
+                <div class="desc">23,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/AITHIOPIA.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/BRAVO.png" alt="Snow">
+                <div class="desc">15,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/BRISTOT.png" alt="Snow">
+                <div class="desc">15,00€</div>
+            </div>
+        </div>
+    </div>
 
-    <img id="myImg" src="img/AITHIOPIA.png" alt="Snow" >
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/BRAVO.png" alt="Snow" >
-    <div class="desc">25,00€</div>
-</div>
-<div class="picture">
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/BUONDI.png" alt="Snow">
+                <div class="desc">15,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/CAGLIARI(2).png" alt="Snow">
+                <div class="desc">18,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/CAGLIARI.png" alt="Snow">
+                <div class="desc">30,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/CAGLIARI(3).png" alt="Snow">
+                <div class="desc">17,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COSMAI(2).png" alt="Snow">
+                <div class="desc">32,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COSMAI.png" alt="Snow">
+                <div class="desc">26,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COVIM(3).png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COSMAI(3).png" alt="Snow">
+                <div class="desc">19,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COVIM(2).png" alt="Snow">
+                <div class="desc">21,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/COVIM.png" alt="Snow">
+                <div class="desc">23,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DA%20VINCI.png" alt="Snow">
+                <div class="desc">16,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DA%20VINCI.png" alt="Snow">
+                <div class="desc">30,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DANESI.png" alt="Snow">
+                <div class="desc">22,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DANESI(2).png" alt="Snow">
+                <div class="desc">23,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DE%20ROCCIS(2).png" alt="Snow">
+                <div class="desc">24,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DE%20ROCCIS(3).png" alt="Snow">
+                <div class="desc">22,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DE%20ROCCIS.png" alt="Snow">
+                <div class="desc">21,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/DEL%20FARO.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/EDUSCHO.png" alt="Snow">
+                <div class="desc">19,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/EDUSCHO(2).png" alt="Snow">
+                <div class="desc">18,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/GARIBALDI.png" alt="Snow">
+                <div class="desc">22,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/ICS(2).png" alt="Snow">
+                <div class="desc">25,00€</div>
+            </div>
+        </div>
 
-    <img id="myImg" src="img/BRISTOT.png" alt="Snow" >
-    <div class="desc">15,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/BUONDI.png" alt="Snow" >
-    <div class="desc">15,00€</div>
-</div>
-<div class="picture">
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/ICS.png" alt="Snow">
+                <div class="desc">26,00€</div>
+            </div>
+        </div>
+    </div>
 
-    <img id="myImg" src="img/CAGLIARI(2).png" alt="Snow">
-    <div class="desc">18,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/CAGLIARI.png" alt="Snow" >
-    <div class="desc">30,00€</div>
-</div>
-<div class="picture">
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Ipanema.png" alt="Snow">
+                <div class="desc">22,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Jacobs.png" alt="Snow">
+                <div class="desc">29,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Julius%20Meinl.png" alt="Snow">
+                <div class="desc">25,00€</div>
+            </div>
+        </div>
 
-    <img id="myImg" src="img/CAGLIARI(3).png" alt="Snow" >
-    <div class="desc">17,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/COSMAI(2).png" alt="Snow" >
-    <div class="desc">32,00€</div>
-</div>
-<div class="picture">
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/KANABISSIMO.png" alt="Snow">
+                <div class="desc">12,00€</div>
+            </div>
+        </div>
+    </div>
 
-    <img id="myImg" src="img/COSMAI.png" alt="Snow" >
-    <div class="desc">26,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/COSMAI(3).png" alt="Snow">
-    <div class="desc">19,00€</div>
-</div>
-<div class="picture">
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Lamborghini.png" alt="Snow">
+                <div class="desc">50,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Lavazza%20Blue.png" alt="Snow">
+                <div class="desc">26,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Lollo.png" alt="Snow">
+                <div class="desc">27,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Lucaffe.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Melitta.png" alt="Snow">
+                <div class="desc">23,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Molinari.png" alt="Snow">
+                <div class="desc">27,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Monbana.png" alt="Snow">
+                <div class="desc">16,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Motta.png" alt="Snow">
+                <div class="desc">14,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Natreen.png" alt="Snow">
+                <div class="desc">18,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Nescafe.png" alt="Snow">
+                <div class="desc">22,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/New%20York.png" alt="Snow">
+                <div class="desc">28,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Paluani.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Passalacqua.png" alt="Snow">
+                <div class="desc">24,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Pelican%20Rouge.png" alt="Snow">
+                <div class="desc">25,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Portioli.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Puro.png" alt="Snow">
+                <div class="desc">22,50€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Ristora.png" alt="Snow">
+                <div class="desc">29,80€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Sandemetrio.png" alt="Snow">
+                <div class="desc">20,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Simat.png" alt="Snow">
+                <div class="desc">27,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Utopia.png" alt="Snow">
+                <div class="desc">21,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Vandino.png" alt="Snow">
+                <div class="desc">22,60€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Manaresi.jpg" alt="Snow">
+                <div class="desc">27,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv coffee">
+                <img id="myImg" src="img/Mondocaffe.jpg" alt="Snow">
+                <div class="desc">13,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m1.png" alt="Snow">
+                <div class="desc">66,60€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m2.png" alt="Snow">
+                <div class="desc">147,99€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m5.png" alt="Snow">
+                <div class="desc">365,99€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/victoria.png" alt="Snow">
+                <div class="desc">14.000€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/zic.png" alt="Snow">
+                <div class="desc">2.284,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m3.png" alt="Snow">
+                <div class="desc">195,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m6.png" alt="Snow">
+                <div class="desc">95,85€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m11.png" alt="Snow">
+                <div class="desc">64,35€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m15.png" alt="Snow">
+                <div class="desc">249,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/m7.png" alt="Snow">
+                <div class="desc">279,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/cit.png" alt="Snow">
+                <div class="desc">179,00€</div>
+            </div>
+        </div>
+    </div>
+    <div class="container1">
+        <div class="picture">
+            <div class="filterDiv machines">
+                <img id="myImg" src="img/citm.png" alt="Snow">
+                <div class="desc">161,00€</div>
+            </div>
+        </div>
+    </div>
+    <script>
 
-    <img id="myImg" src="img/COVIM(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">21,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/COVIM(3).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/COVIM.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">23,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/DA%20VINCI(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">16,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/DA%20VINCI.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">30,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/DANESI.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/DANESI(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">23,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/DE%20ROCCIS(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">24,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/DE%20ROCCIS(3).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/DE%20ROCCIS.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">21,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/DEL%20FARO.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/EDUSCHO.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">19,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/EDUSCHO(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">18,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/GARIBALDI.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/ICS(2).png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">25,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/ICS.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">26,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Ipanema.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Jacobs.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">29,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Julius%20Meinl.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">25,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/KANABISSIMO.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">12,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Lamborghini.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">50,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Lavazza%20Blue.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">26,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Lollo.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">27,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Lucaffe.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-=======
-</div>
-
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/BRAVO.jpg" alt="Snow">
-            <div class="desc">25,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
->>>>>>> dabe4883b982d65327416dd6b1860942a3977734
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<<<<<<< HEAD
-<div class="picture">
-    <img id="myImg" src="img/Melitta.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">23,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Molinari.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">27,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Monbana.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">16,00€</div>
-=======
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
->>>>>>> dabe4883b982d65327416dd6b1860942a3977734
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<<<<<<< HEAD
-<div class="picture">
-    <img id="myImg" src="img/Motta.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">14,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Natreen.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">18,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Nescafe.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/New%20York.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">28,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Paluani.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Passalacqua.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">24,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Pelican%20Rouge.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">25,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Portioli.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Puro.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,50€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Ristora.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">29,80€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Sandemetrio.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">20,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Simat.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">27,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/Utopia.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">21,00€</div>
-</div>
-<div class="picture">
-
-    <img id="myImg" src="img/Vandino.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">22,60€</div>
-</div>
-
-
-
-
-
-
-<div class="picture">
-    <img id="myImg" src="img/m1.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">66,60€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m2.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">147,99€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m5.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">365,99€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/victoria.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">14.000€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/zic.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">2.284,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m3.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">195,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m6.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">95,85€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m11.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">64,35€</div>
-</div><div class="picture">
-    <img id="myImg" src="img/m15.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">249,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/m7.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">279,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/cit.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">179,00€</div>
-</div>
-<div class="picture">
-    <img id="myImg" src="img/citm.png" alt="Snow" style="width:100%;max-width:300px">
-    <div class="desc">161,00€</div>
-=======
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA(2).jpg" alt="Snow">
-            <div class="desc">23,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv coffee">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/AITHIOPIA.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
-</div>
-<div class="container1">
-    <div class="picture">
-        <div class="filterDiv machines">
-            <img id="myImg" src="img/m5.jpg" alt="Snow">
-            <div class="desc">20,00€</div>
-        </div>
-    </div>
->>>>>>> dabe4883b982d65327416dd6b1860942a3977734
-</div>
-
-<script>
-
-    var modal = document.getElementById('myModal');
-    var img = document.getElementById('myImg');
-    var modalImg = document.getElementById("img01");
-    var captionText = document.getElementById("caption");
-    img.onclick = function () {
-        modal.style.display = "block";
-        modalImg.src = this.src;
-        captionText.innerHTML = this.alt;
-    }
-
-    var span = document.getElementsByClassName("close")[0];
-
-
-    span.onclick = function () {
-        modal.style.display = "none";
-    }
-
-</script>
-
-
-<script>
-    filterSelection("all")
-
-    function filterSelection(c) {
-        var x, i;
-        x = document.getElementsByClassName("filterDiv");
-        if (c == "all") c = "";
-        for (i = 0; i < x.length; i++) {
-            eksafaniseClass(x[i], "show");
-            if (x[i].className.indexOf(c) > -1) AddClass(x[i], "show");
+        var modal = document.getElementById('myModal');
+        var img = document.getElementById('myImg');
+        var modalImg = document.getElementById("img01");
+        var captionText = document.getElementById("caption");
+        img.onclick = function () {
+            modal.style.display = "block";
+            modalImg.src = this.src;
+            captionText.innerHTML = this.alt;
         }
-    }
 
-    function AddClass(element, name) {
-        var i, arr1, arr2;
-        arr1 = element.className.split(" ");
-        arr2 = name.split(" ");
-        for (i = 0; i < arr2.length; i++) {
-            if (arr1.indexOf(arr2[i]) == -1) {
-                element.className += " " + arr2[i];
+        var span = document.getElementsByClassName("close")[0];
+
+
+        span.onclick = function () {
+            modal.style.display = "none";
+        }
+
+    </script>
+
+
+    <script>
+        filterSelection("all")
+        function filterSelection(c) {
+            var x, i;
+            x = document.getElementsByClassName("filterDiv");
+            if (c == "all") c = "";
+            for (i = 0; i < x.length; i++) {
+                RemoveClass(x[i], "show");
+                if (x[i].className.indexOf(c) > -1) AddClass(x[i], "show");
             }
         }
-    }
 
-    function eksafaniseClass(element, name) {
-        var i, arr1, arr2;
-        arr1 = element.className.split(" ");
-        arr2 = name.split(" ");
-        for (i = 0; i < arr2.length; i++) {
-            while (arr1.indexOf(arr2[i]) > -1) {
-                arr1.splice(arr1.indexOf(arr2[i]), 1);
+        function AddClass(element, name) {
+            var i, arr1, arr2;
+            arr1 = element.className.split(" ");
+            arr2 = name.split(" ");
+            for (i = 0; i < arr2.length; i++) {
+                if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
             }
         }
-        element.className = arr1.join(" ");
-    }
 
-    var btnContainer = document.getElementById("myBtnContainer");
-    var btns = btnContainer.getElementsByClassName("btn");
-    for (var i = 0; i < btns.length; i++) {
-        btns[i].addEventListener("click", function () {
-            var current = document.getElementsByClassName("active");
-            current[0].className = current[0].className.replace(" active", "");
-            this.className += " active";
-        });
-    }
-</script>
+        function RemoveClass(element, name) {
+            var i, arr1, arr2;
+            arr1 = element.className.split(" ");
+            arr2 = name.split(" ");
+            for (i = 0; i < arr2.length; i++) {
+                while (arr1.indexOf(arr2[i]) > -1) {
+                    arr1.splice(arr1.indexOf(arr2[i]), 1);
+                }
+            }
+            element.className = arr1.join(" ");
+        }
+
+        // Add active class to the current button (highlight it)
+        var btnContainer = document.getElementById("myBtnContainer");
+        var btns = btnContainer.getElementsByClassName("btn");
+        for (var i = 0; i < btns.length; i++) {
+            btns[i].addEventListener("click", function(){
+                var current = document.getElementsByClassName("active");
+                current[0].className = current[0].className.replace(" active", "");
+                this.className += " active";
+            });
+        }
+    </script>
+
 
 
 </body>

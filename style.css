@@ -143,10 +143,6 @@ input[type='name']{
     color:white;
     font-family: "Garamond", Times, serif;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> dabe4883b982d65327416dd6b1860942a3977734
 
 .h1{
 
@@ -166,7 +162,7 @@ input[type='name']{
 }
 .picture {
   margin: 20px;
-  border: 1px solid #ccc;
+
   float: left;
   width: 180px;
 
@@ -337,6 +333,7 @@ input[type=submit]:hover {
     margin: 2px;
     display: none;
     float: left;
+    border: 1px solid #ccc;
 
 }
 
@@ -347,7 +344,6 @@ input[type=submit]:hover {
 .container1 {
     margin-top: 20px;
     overflow: hidden;
-<<<<<<< HEAD
     opacity: inherit;
     width: auto;
     padding-top: 10px;
@@ -361,9 +357,9 @@ input[type=submit]:hover {
     opacity : 0.8;
     color:white;
     font-family: "Garamond", Times, serif;
-=======
+
 }
->>>>>>> dabe4883b982d65327416dd6b1860942a3977734
+
 
 
 .btn {
