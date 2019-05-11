@@ -15,6 +15,8 @@
 
 </head>
 <body>
+
+
 <div class="navbar">
     <a href="">Αρχική</a>
     <a href="Eshop.php">Eshop</a>
@@ -24,6 +26,19 @@
     </div>
 
 </div>
+<div class="product-filter">
+		<h1>Προιόντα</h1>
+		
+		<div class="sort">
+			<div class="collection-sort">
+				<label>Filter by:</label>
+				<select>
+		      <option value="/">Ποικιλίες Καφέ</option>
+		      <option value="/">Μηχανές Καφέ</option>
+               </select>
+			</div>
+		</div>
+	</div>
 
 <div class="product-row btn-open-cart-popup  " data-characteristics-url="https://www.coffeeisland.gr/catalog/product_popup/891/1" id="cart-popup-for-891" data-product-id="891" data-popup-title="Espresso Double">
 
@@ -315,19 +330,6 @@
 
 </script>
 
-<nav class="product-filter">
-		<h1>Προιόντα</h1>
-		
-		<div class="sort">
-			<div class="collection-sort">
-				<label>Filter by:</label>
-				<select>
-		      <option value="/">Καφέδες</option>
-		      <option value="/">Μηχανές Καφέ</option>
-		      <option value="/">Κάψουλες Μηχανής</option>
-               </select>
-			</div>
-		</div>
-	</nav>
+
 </body>
 </html>
