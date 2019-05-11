@@ -315,6 +315,19 @@
 
 </script>
 
-
+<nav class="product-filter">
+		<h1>Προιόντα</h1>
+		
+		<div class="sort">
+			<div class="collection-sort">
+				<label>Filter by:</label>
+				<select>
+		      <option value="/">Καφέδες</option>
+		      <option value="/">Μηχανές Καφέ</option>
+		      <option value="/">Κάψουλες Μηχανής</option>
+               </select>
+			</div>
+		</div>
+	</nav>
 </body>
 </html>
