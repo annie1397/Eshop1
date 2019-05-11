@@ -141,16 +141,9 @@ input[type='name']{
     text-align :center;
     opacity : 0.8;
     color:white;
-
-
     font-family: "Garamond", Times, serif;
 }
-.h1{
 
-    border :double;
-
-
-}
 
 .h1{
     margin-bottom: 20px;
@@ -183,7 +176,7 @@ div.desc {
   text-align: center;
 }
 #myImg {
-  border-radius: 5px;
+  border-radius:5px;
   cursor: pointer;
   transition: 0.3s;
 }
@@ -334,23 +327,38 @@ input[type=submit]:hover {
     padding-top: 10px;
 
 }
-.product-filter {
-	
-	padding: 30px 0;
-	top:0%;
-    overflow: hidden;
-    opacity: inherit;
-    width: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin: 4px;
-    padding: 34px 16px;
-    text-decoration: none;
-    font-size: 20px;
-    color: black;
-	 text-align :center;
-    opacity : 0.8;
-    color:white;
-    font-family: "Garamond", Times, serif;
 
+.filterDiv {
+    text-align: center;
+    margin: 2px;
+    display: none;
+    float: left;
+
+}
+
+.show {
+    display: block;
+}
+
+.container1 {
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ddd;
+}
+
+.btn.active {
+    background-color: #666;
+    color: white;
 }
