@@ -14,7 +14,7 @@
 <body>
 <div class="navbar">
     <a href="">Αρχική</a>
-    <a href="">Eshop</a>
+    <a href="Eshop.php">Eshop</a>
     <a href="">Ο καφές μας</a>
     <a href="">Επικοινωνία</a>
     <div class="navbar-right">
