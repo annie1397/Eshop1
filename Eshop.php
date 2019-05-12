@@ -1,5 +1,6 @@
 <?php
-
+session_start();
+$connect = mysqli_connect("localhost","root","","products");
 
 ?>
 
@@ -29,12 +30,9 @@
 </div>
 
 
-<div class="product-row btn-open-cart-popup  "
-     data-characteristics-url="https://www.coffeeisland.gr/catalog/product_popup/891/1" id="cart-popup-for-891"
-     data-product-id="891" data-popup-title="Espresso Double">
+<div class="container">
+    <i class="fa fa-plus-square-o cart-plus">Shopping cart</i>
 
-
-    <i class="fa fa-plus-square-o cart-plus"></i>
 </div>
 
 
