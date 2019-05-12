@@ -137,34 +137,12 @@ input[type='name']{
 .reminder a:hover {
     color: #cab6bf;
 }
-.h1 {
-    text-align :center;
-    opacity : 0.8;
-    color:white;
-    font-family: "Garamond", Times, serif;
-}
 
-.h1{
-
-    padding-top: 10px;
-    width: 99.5%;
-	text-decoration: underline;
-}
-
-.h1 {
-    display: block;
-    font-size: 15px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 0;
-    margin-right: 0;
-    font-weight: bold;
-}
 div.picture {
   margin: 20px;
   float: left;
   width: 180px;
-    
+
 
 }
 div.picture img {
@@ -201,7 +179,6 @@ div.desc {
 
 
 .modal-content {
-  margin: auto;
   display: block;
   width: 80%;
   height: 80%;
@@ -210,7 +187,6 @@ div.desc {
 
 
 #caption {
-  margin: auto;
   display: block;
   width: 80%;
   max-width: 700px;
@@ -335,10 +311,12 @@ input[type=submit]:hover {
     text-align: center;
     margin: 2px;
     display: none;
+    background:url(img/coffe.png)no-repeat;
 }
 
 .show {
     display: block;
+
 }
 
 .container1 {
@@ -347,7 +325,6 @@ input[type=submit]:hover {
     float: left;
 }
 
-/* Style the buttons */
 .btn {
     border: none;
     outline: none;
