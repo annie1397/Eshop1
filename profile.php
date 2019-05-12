@@ -46,9 +46,7 @@ if ($login == 0) {
     ?>
 
 
-    <span>Name : <?php echo $arr['u_name']; ?></span><br>
-    <span>Email : <?php echo $arr['u_email']; ?></span><br>
-    <span>User ID  : <?php echo $arr['u_id']; ?></span><br>
+
 
 
 <?php } ?>
