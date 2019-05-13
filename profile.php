@@ -14,7 +14,7 @@
 <body>
 <div class="navbar">
     <a href="">Αρχική</a>
-    <a href="index.php">Eshop</a>
+    <a href="login.php">Eshop</a>
     <a href="contact.php">Επικοινωνία</a>
     <div class="navbar-right">
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
@@ -32,7 +32,13 @@
 </body>
 </html>
 <?php
-include 'config.php';if ($login == 0) {
+include 'config.php';
+if (isset($_COOKIE["login"])) {
+    $login = $_COOKIE["login"];
+} else {
+    $login = 0;
+}
+if ($login == 0) {
     echo "<meta http-equiv='refresh' content='0; url=login.php'>";
 
 } else {

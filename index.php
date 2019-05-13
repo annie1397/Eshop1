@@ -4,7 +4,11 @@ session_start();
 include 'config.php';
 
 
-
+if (isset($_COOKIE["login"])) {
+    $login = $_COOKIE["login"];
+} else {
+    $login = 0;
+}
 if ($login == 1) {
     echo "<meta http-equiv='refresh' content='0; url=profile.php'>";
 } else {
