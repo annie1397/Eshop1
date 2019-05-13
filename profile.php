@@ -14,10 +14,9 @@
 <body>
 <div class="navbar">
     <a href="">Αρχική</a>
-    <a href="Eshop.php">Eshop</a>
+    <a href="index.php">Eshop</a>
     <a href="contact.php">Επικοινωνία</a>
     <div class="navbar-right">
-    <a href="#Shop"><i class="fa fa-shopping-cart"></i>  Καλάθι αγορών</a>
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
@@ -33,8 +32,7 @@
 </body>
 </html>
 <?php
-include 'config.php';
-if ($login == 0) {
+include 'config.php';if ($login == 0) {
     echo "<meta http-equiv='refresh' content='0; url=login.php'>";
 
 } else {

@@ -35,11 +35,6 @@ body {
     float: right;
 }
 
-
-
-
-
-
 .form-wrapper {
     width:300px;
     height:370px;
@@ -141,7 +136,7 @@ input[type='name']{
 div.picture {
   margin: 20px;
   float: left;
-  width: 180px;
+  width: 210px;
 
 
 }
@@ -268,7 +263,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: rebeccapurple;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -340,4 +335,126 @@ input[type=submit]:hover {
 .btn.active {
     background-color: #666;
     color: white;
+}
+
+#shopping-cart {
+    font-family: Gabriola;
+    margin: 40px;
+    color:#ffffff;
+}
+
+#product-grid {
+    margin: 4px;
+
+}
+
+#shopping-cart table {
+    width: 100%;
+    background-color: rebeccapurple;
+}
+
+#shopping-cart table td {
+    background-color: #211a1a;
+}
+
+.txt-heading {
+    color: rebeccapurple;
+    font-size:29px;
+
+
+
+}
+
+#btnEmpty {
+    font-size: 30px;
+    background-color: rebeccapurple;
+    padding: 5px 10px;
+    color: #f1f1f1;
+    float: right;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 10px 0px;
+}
+
+.btnAddAction {
+    padding: 5px 10px;
+    margin-left: 5px;
+    background-color: #efefef;
+    border: #E0E0E0 1px solid;
+    color: #211a1a;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+
+.product-item {
+    border: #E0E0E0 1px solid;
+    overflow: hidden;
+    float: left;
+    font-size:11px;
+
+}
+
+
+
+.clear-float {
+    clear: both;
+}
+
+.demo-input-box {
+    border-radius: 2px;
+    border: #CCC 1px solid;
+    padding: 2px 1px;
+}
+
+.tbl-cart {
+    font-size: 30px;
+}
+
+.tbl-cart th {
+    font-weight: normal;
+}
+
+.product-title {
+    margin-bottom: 20px;
+}
+
+.product-price {
+    float:left;
+}
+
+.cart-action {
+    float: right;
+}
+
+.product-quantity {
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: #E0E0E0 1px solid;
+}
+
+.product-tile-footer {
+    padding: 15px 15px 0px 15px;
+    overflow: auto;
+    text-align: center;
+}
+
+.cart-item-image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: #E0E0E0 1px solid;
+    padding: 5px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.no-records {
+    font-family:Gabriola;
+    text-align: center;
+    clear: both;
+    margin: 38px 0px;
+    font-size:40px;
 }
