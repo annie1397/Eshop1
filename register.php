@@ -14,7 +14,7 @@ if ($login == 1) {
             echo "Please complete all data";
         } else {
             $insert = mysqli_query($conn, "INSERT INTO `lesson3`.`users` (`u_name`, `u_email`, `u_pass`) VALUES ('$u_name', '$u_email', '$u_pass')");
-            echo "Succes";
+            echo "Success";
 
         }
 
@@ -61,7 +61,7 @@ if ($login == 1) {
 
     </form>
     <div class="reminder">
-        <p>Είσαι μέλος ? <a href="login.php">Σύνδεση </a></p>
+        <p>Είσαι μέλος ? <a href="index.php">Σύνδεση </a></p>
 
     </div>
 

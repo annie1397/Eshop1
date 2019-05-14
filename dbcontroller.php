@@ -14,7 +14,7 @@ class DBController {
 		$conn = mysqli_connect($this->host,$this->user,$this->password,$this->database);
 		return $conn;
 	}
-	
+
 	function runQuery($query) {
 		$result = mysqli_query($this->conn,$query);
 		while($row=mysqli_fetch_assoc($result)) {

@@ -2,14 +2,27 @@
 include 'config.php';
 
 
-if (isset($_POST['textdata'])) {
-    $data = $_POST['textdata'];
-    $fp = fopen('data.txt', 'a');
-    fwrite($fp, $data);
-    fclose($fp);
+if (isset($_POST["button"])) {
+
+    $firstname = $_POST["firstname"];
+    $lastname = $_POST["lastname"];
+    $email = $_POST["email"];
+    $info=$_POST["info"];
+
+        $insert = mysqli_query($conn, "INSERT INTO `lesson3`.`users_info` (`firstname`, `lastname`, `email`, `info`) VALUES ('$firstname', '$lastname', '$email', '$info')");
+
+
+
 }
 
+
 ?>
+
+
+
+
+
+
 <html>
 
 <head>
@@ -32,30 +45,29 @@ if (isset($_POST['textdata'])) {
     <a href="">Επικοινωνία</a>
 
 </div>
-
-
-</div>
 <div class="container">
 
-        <form method="post">
-        <label for="u_name">Όνομα</label>
-        <input type="text" id="textdata" placeholder="Πληκτρολόγησε το όνομά σου..">
+    <form  action ="contact.php" method="post">
+        <label for="firstname">Όνομα</label>
+        <input type="text" name="firstname" placeholder="Πληκτρολόγησε το όνομά σου..">
 
 
-        <label for="u_name">Επίθετο</label>
-        <input type="text" id="textdata" placeholder="Πληκτρολόγησε το επίθετό σου..">
+        <label for="lastname">Επίθετο</label>
+        <input type="text" name="lastname" placeholder="Πληκτρολόγησε το επίθετό σου..">
 
-        <label for="u_email">Email</label>
-        <input type="text" id="textdata" placeholder="Πληκτρολόγησε το e-mail σου..">
+        <label for="email">Email</label>
+        <input type="text" name="email" placeholder="Πληκτρολόγησε το e-mail σου..">
 
-        <label for="subject">Σχόλια</label>
+        <label for="info">Σχόλια</label>
 
-        <input type="text" id="textdata" name="textdata" placeholder="Γράψε κάτι..." style="height:200px">
+        <input type="text"  name="info" placeholder="Γράψε κάτι..." style="height:200px">
 
-        <input type="submit" name="submit">
+        <input type="submit" class="button" title="Εγγραφή" name="button" value="Εγγραφη "></input>
 
-        </form>
+    </form>
 </div>
+
+
 
 
 </body>

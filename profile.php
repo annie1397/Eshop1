@@ -14,7 +14,7 @@
 <body>
 <div class="navbar">
     <a href="">Αρχική</a>
-    <a href="login.php">Eshop</a>
+    <a href="eshop.php">Eshop</a>
     <a href="contact.php">Επικοινωνία</a>
     <div class="navbar-right">
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
@@ -39,7 +39,7 @@ if (isset($_COOKIE["login"])) {
     $login = 0;
 }
 if ($login == 0) {
-    echo "<meta http-equiv='refresh' content='0; url=login.php'>";
+    echo "<meta http-equiv='refresh' content='0; url=eshop.php'>";
 
 } else {
     $u_id = $_COOKIE['uid'];
