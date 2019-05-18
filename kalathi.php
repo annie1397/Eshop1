@@ -4,6 +4,10 @@
    //session_destroy();
 
 
+    // Turn off all error reporting
+    error_reporting(0);
+
+
     switch($_GET["action"]) {
         case "empty":
             unset($_SESSION["shopping_cart"]);
@@ -120,7 +124,7 @@
                                 if(isset($_SESSION['shopping_cart'])):
                                 if(count($_SESSION['shopping_cart'])>0):
                                 ?>
-                                <a href="contact.php" class="button">Ολοκλήρωση παραγγελίας</a>
+                                <a href="checkout.php" class="button">Ολοκλήρωση παραγγελίας</a>
                                 <?php
                                 endif;
                                 endif;
