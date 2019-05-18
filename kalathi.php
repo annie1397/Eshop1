@@ -1,7 +1,6 @@
     <?php
     session_start();
     $product_ids=array();
-   //session_destroy();
 
 
     // Turn off all error reporting
