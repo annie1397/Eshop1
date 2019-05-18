@@ -6,14 +6,15 @@
     <link href="style.css" rel="stylesheet">
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
-
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 
 
 </head>
 <body>
 <div class="navbar">
-    <a href=""><i class="fas fa-home"></i>Αρχική</a>
+    <a href="home.php"><i class="fas fa-home"></i>Αρχική</a>
     <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
     <div class="navbar-right">
@@ -23,7 +24,10 @@
 </div>
 
 
+<div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">Συνδέθηκες επιτυχώς  !</h1>
 
+</div>
 <div class="footer"
 <p>&copy; COFFEE COMPANY 2019</p>
 </div>
