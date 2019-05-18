@@ -22,7 +22,7 @@ if ($login == 1) {
             echo "Συμπλήρωσε όλα τα πεδία";
         } else {
             $selectfdb = mysqli_query($conn, "SELECT * FROM users WHERE u_email='$u_email' AND u_pass='$u_pass'");
-            $row = mysqli_fetch_array($selectfdb);
+            $row =mysqli_fetch_array($selectfdb);
             if ($row["u_email"] == $u_email && $row["u_pass"] == $u_pass) {
                 setcookie('uid', $row["u_id"], time() + (3600 * 24));
                 setcookie('login', 1, time() + (3600 * 24));
@@ -54,12 +54,12 @@ if ($login == 1) {
 </head>
 <body>
 <div class="navbar">
-    <a href="">Αρχική</a>
-    <a href="index.php">Eshop</a>
-
-    <a href="contact.php">Επικοινωνία</a>
+    <a href=""><i class="fas fa-home"></i>Αρχική</a>
+    <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
+    <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
 
 </div>
+
 
 
 <div class="form-wrapper">

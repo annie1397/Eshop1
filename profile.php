@@ -13,9 +13,9 @@
 </head>
 <body>
 <div class="navbar">
-    <a href="">Αρχική</a>
-    <a href="eshop.php">Eshop</a>
-    <a href="contact.php">Επικοινωνία</a>
+    <a href=""><i class="fas fa-home"></i>Αρχική</a>
+    <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
+    <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
     <div class="navbar-right">
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>

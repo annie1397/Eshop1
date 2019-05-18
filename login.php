@@ -89,6 +89,7 @@ if(!empty($_GET["action"])) {
                 $item_price = $item["quantity"] * $item["price"];
                 ?>
                 <tr>
+                    <img id="myImg" src="<?php echo $item["image"]; ?>" alt="Snow" style="width:100%;max-width:300px">
                     <td><img src="<?php echo $item["image"]; ?>" class="cart-item-image"/><?php echo $item["name"]; ?>
                     </td>
                     <td><?php echo $item["code"]; ?></td>
