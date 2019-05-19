@@ -13,11 +13,11 @@
 
 </head>
 <body>
-<div class="navbar">
+<div class="menuan">
     <a href="home.php"><i class="fas fa-home"></i>Αρχική</a>
     <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
-    <div class="navbar-right">
+    <div class="menuan-right">
     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
@@ -43,7 +43,7 @@ if (isset($_COOKIE["login"])) {
     $login = 0;
 }
 if ($login == 0) {
-    echo "<meta http-equiv='refresh' content='0; url=eshop.php'>";
+    echo "<meta http-equiv='refresh' content='0; url=kalathi.php'>";
 
 } else {
     $u_id = $_COOKIE['uid'];

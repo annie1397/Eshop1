@@ -1,9 +1,5 @@
-    <?php
-    session_start();
+<?php
     $product_ids=array();
-
-
-    // Turn off all error reporting
     error_reporting(0);
 
 
@@ -72,13 +68,12 @@
 
 </head>
 <body>
-<div class="navbar">
+<div class="menuan">
     <a href="home.php"><i class="fas fa-home"></i> Αρχική</a>
     <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
-    <div class="navbar-right">
-        <a href="index.php"><i class="fas fa-sign-in-alt"> </i> Σύνδεση</a>
-        <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
+    <div class="menuan-right">
+     <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
 </div>
@@ -123,7 +118,8 @@
                                 if(isset($_SESSION['shopping_cart'])):
                                 if(count($_SESSION['shopping_cart'])>0):
                                 ?>
-                                <a href="checkout.php" class="button">Ολοκλήρωση παραγγελίας</a>
+
+                                <a href="checkout.php" class="babis">Ολοκλήρωση παραγγελίας</a>
                                 <?php
                                 endif;
                                 endif;
@@ -137,7 +133,7 @@
                 </div>
 
             <?php
-            $connect =mysqli_connect('localhost','root','','lesson3');
+            $connect =mysqli_connect('localhost','id9631426_admin','admin123','id9631426_coffee');
             $query ='SELECT * FROM tblproduct ORDER by id ASC';
             $result= mysqli_query($connect,$query);
 

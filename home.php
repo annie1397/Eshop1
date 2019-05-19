@@ -15,11 +15,11 @@ include 'config.php';
 
 </head>
 <body class="w3-light-grey">
-<div class="navbar">
+<div class="menuan">
     <a href=""><i class="fas fa-home"></i> Αρχική</a>
-    <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
+    <a href="index.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
-    <div class="navbar-right">
+    <div class="menuan-right">
         <a href="index.php"><i class="fas fa-sign-in-alt"> </i> Σύνδεση</a>
         <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>

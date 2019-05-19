@@ -53,7 +53,7 @@ if ($login == 1) {
 
 </head>
 <body>
-<div class="navbar">
+<div class="menuan">
     <a href="home.php"><i class="fas fa-home"></i>Αρχική</a>
     <a href="index.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>

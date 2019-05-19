@@ -2,10 +2,10 @@
 -- version 4.8.5
 -- https://www.phpmyadmin.net/
 --
--- Φιλοξενητής: 127.0.0.1
--- Χρόνος δημιουργίας: 18 Μάη 2019 στις 18:47:57
--- Έκδοση διακομιστή: 10.1.40-MariaDB
--- Έκδοση PHP: 7.3.5
+-- Φιλοξενητής: localhost:3306
+-- Χρόνος δημιουργίας: 19 Μάη 2019 στις 10:58:56
+-- Έκδοση διακομιστή: 10.3.14-MariaDB
+-- Έκδοση PHP: 7.3.2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Βάση δεδομένων: `lesson3`
+-- Βάση δεδομένων: `id9631426_coffee`
 --
 
 -- --------------------------------------------------------
@@ -35,6 +35,13 @@ CREATE TABLE `checkout` (
   `city` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `zip` int(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Άδειασμα δεδομένων του πίνακα `checkout`
+--
+
+INSERT INTO `checkout` (`firstname`, `email`, `address`, `city`, `zip`) VALUES
+('ANI', 'test1@test', 'ΚΟΛΟΚΟΤΡΩΝΗ-28', 'ΚΑΒΑΛΑΣ', 65201);
 
 -- --------------------------------------------------------
 
@@ -140,13 +147,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`u_id`, `u_name`, `u_email`, `u_pass`) VALUES
-(1, 'ANI VARAZASHVILI', 'psaki@psaki', '1234'),
-(2, 'ANI VARAZASHVILI', 'psaki@psaki', 'ko'),
-(3, 'kaka', 'kaka@kaka', 'kaka'),
-(4, 'ANI VARAZASHVILI', 'kakakak@jakaka', '1234'),
-(5, 'maria', 'maria@maria', '123'),
-(6, 'anna', 'anna@anna', '123'),
-(7, 'nana', 'nana@nana', 'nana');
+(14, 'admin', 'admin@admin', 'admin123');
 
 -- --------------------------------------------------------
 
@@ -160,17 +161,6 @@ CREATE TABLE `users_info` (
   `email` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
   `info` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
---
--- Άδειασμα δεδομένων του πίνακα `users_info`
---
-
-INSERT INTO `users_info` (`firstname`, `lastname`, `email`, `info`) VALUES
-('achilleas', 'bellos', 'bellos@achilleas', 'eimai o achilleas kai eimai kala'),
-('ANI', 'VARAZASHVILI', 'test1@test', 'hgvgjhvgjh'),
-('kkkkk', 'ijliklkgjg', 'kjhlkh@rfigh', 'trdfghkjbnk'),
-('dwqdqw', '', 'knhkj', ''),
-('kakaaas', 'ekewfoewkf', 'knwflkfnn', 'lnfwef');
 
 --
 -- Ευρετήρια για άχρηστους πίνακες
@@ -208,7 +198,7 @@ ALTER TABLE `users_info`
 -- AUTO_INCREMENT για πίνακα `users`
 --
 ALTER TABLE `users`
-  MODIFY `u_id` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+  MODIFY `u_id` int(4) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

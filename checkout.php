@@ -8,7 +8,7 @@ if (isset($_POST["button"])) {
     $city = $_POST["city"];
     $zip = $_POST["zip"];
 
-    $insert = mysqli_query($conn, "INSERT INTO `lesson3`.`checkout` (`firstname`, `email`, `address`, `city`, `zip`) VALUES ('$firstname', '$email', '$address', '$city',  '$zip')");
+   $insert = mysqli_query($conn, "INSERT INTO `id9631426_coffee`.`checkout` (`firstname`, `email`, `address`, `city`, `zip`) VALUES ('$firstname', '$email', '$address', '$city',  '$zip')");
 
 
 
@@ -30,13 +30,12 @@ if (isset($_POST["button"])) {
 
 </head>
 <body>
-<div class="navbar">
+<div class="menuan">
     <a href="home.php"><i class="fas fa-home"></i> Αρχική</a>
     <a href="kalathi.php"><i class="fas fa-shopping-bag"></i> Ηλεκτρονικό κατάστημα </a>
     <a href="contact.php"><i class="fas fa-id-card-alt"></i> Επικοινωνία</a>
-    <div class="navbar-right">
-        <a href="index.php"><i class="fas fa-sign-in-alt"> </i> Σύνδεση</a>
-        <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
+    <div class="menuan-right">
+    <a href="logout.php"><i class="fas fa-sign-out-alt"></i> Αποσύνδεση</a>
     </div>
 
 </div>

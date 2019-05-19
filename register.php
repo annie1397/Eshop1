@@ -1,5 +1,4 @@
 <?php
-
 include 'config.php';
 if ($login == 1) {
     echo "<meta http-equiv='refresh' content='0; url=profile.php'>";
@@ -13,7 +12,7 @@ if ($login == 1) {
         if (empty($u_name) || empty($u_email) || empty($u_pass)) {
             echo "Please complete all data";
         } else {
-            $insert = mysqli_query($conn, "INSERT INTO `lesson3`.`users` (`u_name`, `u_email`, `u_pass`) VALUES ('$u_name', '$u_email', '$u_pass')");
+            $insert = mysqli_query($conn, "INSERT INTO `id9631426_coffee`.`users` (`u_name`, `u_email`, `u_pass`) VALUES ('$u_name', '$u_email', '$u_pass')");
             echo "Success";
 
         }
